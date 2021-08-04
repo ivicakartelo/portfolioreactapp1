@@ -1,7 +1,7 @@
 const blogposts = [
     {
         id: '1',
-        heading: 'About me',
+        heading: 'What is final product of a React',
         blogpost: [
             `Croin congue ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo. 
             Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis, 
